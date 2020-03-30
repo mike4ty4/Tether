@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tether</string>
+    <string name="hap_acc_label_caption">Home-Away Points Accrued</string>
+    <string name="hap_limit_label_caption">Today\'s Point Limit</string>
+    <string name="hap_change_label_caption">Change from Yesterday</string>
+</resources>
